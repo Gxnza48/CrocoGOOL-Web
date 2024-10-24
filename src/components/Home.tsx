@@ -58,19 +58,19 @@ const Home = () => {
         <h2 className="text-3xl font-bold mb-6 text-center retro-text">Productos Destacados</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="glassmorphism p-4 rounded-lg retro-border">
-            <img src="https://i.ibb.co/pb6HMB4/IMG-8446.jpg" alt="Camiseta Retro Argentina" className="w-full h-48 object-cover mb-4 rounded" />
+            <img src="https://i.ibb.co/pb6HMB4/IMG-8446.jpg" alt="Camiseta Retro Argentina" className="w-full aspect-square object-cover mb-2 rounded-lg"  />
             <h3 className="text-xl font-semibold mb-2">Camiseta Retro Argentina 2006</h3>
             <p className="text-gray-300 mb-2">Revive la gloria de una de las mejores selecciones de la Historia</p>
             <Link to="/products" className="text-crocogol-green-400 hover:text-crocogol-green-300 transition-colors">Ver Detalles</Link>
           </div>
           <div className="glassmorphism p-4 rounded-lg retro-border">
-            <img src="https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FBoca%20JRS%2FBoca%201981%2FPhotoroom_000_20241009_125438.jpg?alt=media&token=082ce3e3-a197-4072-9d1a-2fcbe7ced7dc" alt="Camiseta Boca Juniors 1981" className="w-full h-48 object-cover mb-4 rounded" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FBoca%20JRS%2FBoca%201981%2FPhotoroom_000_20241009_125438.jpg?alt=media&token=082ce3e3-a197-4072-9d1a-2fcbe7ced7dc" alt="Camiseta Boca Juniors 1981" className="w-full aspect-square object-cover mb-2 rounded-lg" />
             <h3 className="text-xl font-semibold mb-2">Camiseta Boca Juniors 1981</h3>
             <p className="text-gray-300 mb-2">La época dorada xeneize</p>
             <Link to="/products" className="text-crocogol-green-400 hover:text-crocogol-green-300 transition-colors">Ver Detalles</Link>
           </div>
           <div className="glassmorphism p-4 rounded-lg retro-border">
-            <img src="https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FRiver%20Plate%2FRiver%201996%2FPhotoroom_000_20241007_090441.jpg?alt=media&token=d34d76fa-2723-4498-8e92-4747317e5c1c" className="w-full h-48 object-cover mb-4 rounded" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FRiver%20Plate%2FRiver%201996%2FPhotoroom_000_20241007_090441.jpg?alt=media&token=d34d76fa-2723-4498-8e92-4747317e5c1c" className="w-full aspect-square object-cover mb-2 rounded-lg" />
             <h3 className="text-xl font-semibold mb-2">Camiseta River Plate 1996</h3>
             <p className="text-gray-300 mb-2">El equipo de los Caballeros</p>
             <Link to="/products" className="text-crocogol-green-400 hover:text-crocogol-green-300 transition-colors">Ver Detalles</Link>
