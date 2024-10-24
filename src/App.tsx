@@ -54,7 +54,7 @@ function App() {
   return (
     <Router>
       <div className="min-h-screen flex flex-col bg-black text-white">
-        <header className="bg-transparent fixed w-full z-10 backdrop-blur-[10px] rounded-[17px]">
+        <header className="bg-black fixed w-full z-10 ">
           <div className="container mx-auto px-4 py-4">
             <div className="flex justify-between items-center">
               <Link to="/" className="text-2xl font-bold text-green-700">
