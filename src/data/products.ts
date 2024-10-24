@@ -68,7 +68,7 @@ export const products = [
     brand: 'Fila',
     priceWithoutPatch:50000,
     priceWithPatch: 55000,
-    image: 'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/IMG_8486.JPG?alt=media&token=fc17b759-87c0-4f90-aa2d-811051ec5d75',
+    image: 'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Europeo%2FLiga%20Italiana%2FFiorentina%2FFiorentina%201998-1999%2FIMG_8486.JPG?alt=media&token=457f5231-9052-496c-a9b9-f760b2ec9e7d',
     description: 'Camiseta de la fiorentina con la que jugaron grandes leyendas del club italiano.',
     features: [
       'Diseño clásico de Fila',
@@ -77,8 +77,8 @@ export const products = [
       'Réplica de alta calidad',
     ],
     additionalImages: [
-      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FChampions%20Leage%2FFiorentina%2098-99%2FIMG_8487.JPG?alt=media&token=accbb30e-fc73-46a0-a2a5-81cd828c9afd',
-      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FChampions%20Leage%2FFiorentina%2098-99%2FIMG_8488.JPG?alt=media&token=543533fb-74e9-4daa-ba58-64fc1f355a3c',
+      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Europeo%2FLiga%20Italiana%2FFiorentina%2FFiorentina%201998-1999%2FIMG_8487.JPG?alt=media&token=7d546676-4baf-46a1-82bc-67ab1d30396f',
+      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Europeo%2FLiga%20Italiana%2FFiorentina%2FFiorentina%201998-1999%2FIMG_8489.JPG?alt=media&token=d0ff8d62-31c1-4fb7-a631-95a53a7c79a4',
     ],
   },
   
@@ -109,7 +109,7 @@ export const products = [
     brand: 'Adidas',
     priceWithoutPatch: 50000,
     priceWithPatch: 55000,
-    image: 'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FBoca%20JRS%2FRiver%20(Gallinas%20Putas)%2FRiver%201996%2FPhotoroom_000_20241007_090441.jpg?alt=media&token=11695214-1b6c-43bc-ab54-c5e0f11eb013',
+    image: 'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FRiver%20Plate%2FRiver%201996%2FPhotoroom_000_20241007_090441.jpg?alt=media&token=d34d76fa-2723-4498-8e92-4747317e5c1c',
     description: 'Camiseta de River Plate de la temporada 1996, cuando...',
     features: [
       'Diseño icónico de Adidas',
@@ -118,8 +118,8 @@ export const products = [
       'Réplica de alta calidad',
     ],
     additionalImages: [
-      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FBoca%20JRS%2FRiver%20(Gallinas%20Putas)%2FRiver%201996%2FPhotoroom_001_20241007_090441.jpg?alt=media&token=9183d785-3f7a-4b55-a164-1d04d7262471',
-      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FBoca%20JRS%2FRiver%20(Gallinas%20Putas)%2FRiver%201996%2FPhotoroom_002_20241007_090441.jpg?alt=media&token=50294562-71bf-43ef-8391-073b9a1d6667',
+      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FRiver%20Plate%2FRiver%201996%2FPhotoroom_001_20241007_090441.jpg?alt=media&token=e51aa134-b89e-4ca8-b66e-f6742c838007',
+      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FRiver%20Plate%2FRiver%201996%2FPhotoroom_009_20241006_160930.jpg?alt=media&token=9a5e6f22-37c8-46f7-8141-2d95e3b84171',
     ],
   },
   {
