@@ -25,7 +25,7 @@ const Filter = ({ filters, updateFilters }) => {
           >
             <option value="all">Todas</option>
             <option value="champions">Fútbol Europeo</option>
-            <option value="international">Fútbol Internacional</option>
+            <option value="international">Selecciones Nacionales</option>
             <option value="argentine">Fútbol Argentino</option>
             <option value="brazil">Fútbol de Brazil</option>
           </select>
