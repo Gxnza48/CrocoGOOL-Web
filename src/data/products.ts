@@ -142,6 +142,26 @@ export const products = [
       'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FCampeonato%20Brasile%C3%B1o%2FPALMEIRAS%201999%2FPhotoroom_002_20241007_162419.jpg?alt=media&token=f8d750a6-c764-4742-be7b-4f4ffdb9d412',
     ],
   },
+  {
+    id: 74,
+    name: 'Camiseta Santos 2011',
+    category: 'brazil',
+    brand: 'Nike',
+    priceWithoutPatch: 50000,
+    priceWithPatch: 55000,
+    image: 'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FCampeonato%20Brasile%C3%B1o%2FSANTOS%202011-2012%2FPhotoroom_000_20241007_155913.jpg?alt=media&token=052e9e4b-82a4-4103-b561-d4902c351cdb',
+    description: 'Camiseta de Palmerias, cuando...',
+    features: [
+      'Diseño icónico de Adidas',
+      'Escudo bordado',
+      'Material: 100% poliéster',
+      'Réplica de alta calidad',
+    ],
+    additionalImages: [
+      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FCampeonato%20Brasile%C3%B1o%2FSANTOS%202011-2012%2FIMG_0002.PNG?alt=media&token=fbdb5911-5235-4a2d-b73f-9d2f3df8b030',
+      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FCampeonato%20Brasile%C3%B1o%2FSANTOS%202011-2012%2FPhotoroom_003_20241007_155913.jpg?alt=media&token=57ee0ca1-ec6f-44aa-bb4f-a2c6a8826429',
+    ],
+  },
 
 
   // Ejemplo para crear nuevas camisetas/productos para la paigna. !Seguir el formato siempre!
