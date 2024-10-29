@@ -24,7 +24,7 @@ const Filter = ({ filters, updateFilters }) => {
             className="w-full p-2 bg-gray-800 border border-gray-700 rounded text-white"
           >
             <option value="all">Todas</option>
-            <option value="champions">Champions League</option>
+            <option value="champions">Fútbol Europeo</option>
             <option value="international">Fútbol Internacional</option>
             <option value="argentine">Fútbol Argentino</option>
             <option value="brazil">Fútbol de Brazil</option>
