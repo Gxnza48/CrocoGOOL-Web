@@ -904,7 +904,7 @@ additionalImages: [
             ],
             },
             {
-              id: 109,
+              id: 130,
               name: 'Camiseta Ajax 1994-95',
               category: 'champions',
               brand: 'Umbro',
@@ -923,26 +923,7 @@ additionalImages: [
                 ,
               ],
               },
-  {
-    id: 89,
-    name: 'Camiseta Japon 1998',
-    category: 'International',
-    brand: 'Asics',
-    priceWithoutPatch: 50000,
-    priceWithPatch: 55000,
-    image: 'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FSelecciones%2FJapon%201998%2FIMG_9067.JPG?alt=media&token=7e5cfc7c-53b8-42aa-94b4-e57e277242d5',
-    description: 'Camiseta Mundial 1998',
-    features: [
-      'Diseño icónico de  Asics',
-      'Escudo bordado',
-      'Material: 100% poliéster',
-      'Réplica de alta calidad',
-    ],
-    additionalImages: [
-      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FSelecciones%2FJapon%201998%2FIMG_9068.JPG?alt=media&token=c216a29c-5286-45b8-a2d3-154e5c80b56f',
-      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FSelecciones%2FJapon%201998%2FIMG_9069.JPG?alt=media&token=331f6ff4-daa5-434e-baf5-19a347da0794',
-    ],
-  },
+  
  
 
   
