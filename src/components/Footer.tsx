@@ -31,7 +31,15 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-700 text-center">
-          <p>&copy; 2024 Crocogol. Todos los derechos reservados <span className="text-green-500" >developed by Gonzalo Bonadeo</span></p>
+          <p>
+          &copy; 2024 CrocoGol. Todos los derechos reservados{' '}
+  <span
+    className="text-croco-400 cursor-pointer hover:underline"
+    onClick={() => window.open('https://my-portfolio-gxnza48.onrender.com/', '_blank')}
+    >
+    developed by Gonzalo Bonadeo
+  </span>
+      </p> 
         </div>
       </div>
     </footer>
