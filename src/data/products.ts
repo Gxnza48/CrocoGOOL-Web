@@ -1125,7 +1125,7 @@ additionalImages: [
                                   },
                                   {
                                     id: 123,
-                                    name: 'Camiseta Celtic  1992-93',
+                                    name: 'Camiseta Celtic 1992-93',
                                     category: 'champions',
                                     brand: 'Umbro',
                                     priceWithoutPatch: 50000,
@@ -1283,6 +1283,46 @@ additionalImages: [
                                                     ,
                                                   ],
                                                   },
+                                                  {
+                                                    id: 131,
+                                                    name: 'Camiseta Fiorentina 1992',
+                                                    category: 'Champions',
+                                                    brand: 'Lotto',
+                                                    priceWithoutPatch: 50000,
+                                                    priceWithPatch: 55000,
+                                                    image:'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Europeo%2FLiga%20Italiana%2FFiorentina%201992%2FPhotoroom_000_20250103_113118.jpg?alt=media&token=7a8fcc13-4329-47c8-9fe4-d4c94e9a48b7',
+                                                    description: 'Camiseta Iconica de   Fiorentina',
+                                                    features: [
+                                                      'Diseño icónico de Lotto',
+                                                      'Escudo bordado',
+                                                      'Material: 100% poliéster',
+                                                      'Réplica de alta calidad',
+                                                    ],
+                                                    additionalImages: [
+                                                      'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Europeo%2FLiga%20Italiana%2FFiorentina%201992%2FPhotoroom_001_20250103_113118.jpg?alt=media&token=9ddc7bfc-67e6-49c9-a442-91a532ffe83d',
+                                                      ,
+                                                    ],
+                                                    },
+                                                    {
+                                                      id: 131,
+                                                      name: 'Camiseta Racing 2000',
+                                                      category: 'argentine',
+                                                      brand: 'Adidas',
+                                                      priceWithoutPatch: 50000,
+                                                      priceWithPatch: 55000,
+                                                      image:'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FRacing%202000%2FPhotoroom_000_20250101_174053.jpg?alt=media&token=f97a042e-1b95-4580-977e-890ef1f9ca1b',
+                                                      description: 'Camiseta Iconica de   Racing',
+                                                      features: [
+                                                        'Diseño icónico de Adidas',
+                                                        'Escudo bordado',
+                                                        'Material: 100% poliéster',
+                                                        'Réplica de alta calidad',
+                                                      ],
+                                                      additionalImages: [
+                                                        'https://firebasestorage.googleapis.com/v0/b/crocogool-products.appspot.com/o/Camisetas%2FFutbol%20Argentino%2FRacing%202000%2FPhotoroom_001_20250101_174053.jpg?alt=media&token=7a3102f7-3121-40ed-a106-89b6de1b6751',
+                                                        ,
+                                                      ],
+                                                      },
                                               
                                           
 
